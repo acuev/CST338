@@ -1,10 +1,8 @@
 /*
-Author: Abigail Cuevas
+
 Title: MarkovTest.java
 Date: 02/19/2021
-Description: This is the where we will test the Markov project. I will
-be testing the getWords(), getSentence(), randomWord(), endsWithPunctuation(),
-toString() and the constructor.
+
  */
 
 import org.junit.jupiter.api.Test;
